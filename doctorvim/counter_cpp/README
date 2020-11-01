@@ -1,3 +1,0 @@
-How to run:
-  - use the g++ compiler to make an executable. [g++ nate_counter.cpp && ./a.out]
-  - run the executable.
